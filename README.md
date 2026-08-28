@@ -2,7 +2,7 @@
 
 ![Image Alt](https://github.com/manasaa389-arch/Excel-Dashboard/blob/fc1d5f3057edad646cab5e9c915bee5e942ef219/Dashboard.png)
 
-
+![Image Alt](https://github.com/manasaa389-arch/Excel-Dashboard/blob/main/insight%20and%20rec.png?raw=true)
 
 
 
