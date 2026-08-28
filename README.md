@@ -1,3 +1,26 @@
+
+
+
+![Image Alt]([image_url](https://github.com/manasaa389-arch/Excel-Dashboard/blob/fc1d5f3057edad646cab5e9c915bee5e942ef219/Dashboard.png))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # ☕ Coffee Shop Sales Dashboard
 
 An interactive Excel dashboard built to analyze coffee shop sales data and transform raw transactional data into meaningful business insights. This project demonstrates my ability to clean, organize, analyze, and visualize data using Microsoft Excel.
