@@ -1,6 +1,5 @@
 
 
-
 ![Image Alt](https://github.com/manasaa389-arch/Excel-Dashboard/blob/fc1d5f3057edad646cab5e9c915bee5e942ef219/Dashboard.png)
 
 
@@ -147,44 +146,11 @@ This project helped me strengthen my skills in:
 * Problem Solving
 * Analytical Thinking
 
----
-
-## 📷 Dashboard Preview
-
-> Add screenshots of your dashboard here.
-
-Example:
-
-```
-images/dashboard.png
-```
-
----
-
-## 📁 Repository Structure
-
-```
-Coffee-Shop-Sales-Dashboard/
-│
-├── Dataset/
-│   ├── Raw_Data.xlsx
-│
-├── Dashboard/
-│   ├── Coffee_Shop_Dashboard.xlsx
-│
-├── Images/
-│   ├── Dashboard.png
-│
-└── README.md
-```
-
----
 
 ## 📚 What I Learned
 
 Through this project, I gained practical experience in transforming raw business data into actionable insights using Microsoft Excel. I improved my understanding of Pivot Tables, lookup functions, KPI reporting, dashboard design, and data visualization while building a user-friendly and interactive reporting solution.
 
----
 
 ## 👩‍💻 About Me
 
